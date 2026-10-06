@@ -1,2 +1,7 @@
-# Computer-Network
-CN Experiments 
+# CN_experiments
+
+## Computer-Network
+
+CN Experiments
+
+Practicals
